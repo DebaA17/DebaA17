@@ -11,7 +11,7 @@ _"Securing the web, one line of code at a time."_
 - 🎓 BCA Student (2nd Semester)
 - 💻 Passionate about **web development** and **cybersecurity**
 - 🧠 Deep knowledge in **penetration testing** and **web app security**
-- 🌱 Currently learning **React**, **Firebase**, and **cloud security**
+- 🌱 Currently learning **new technologies**
 - 🌐 My Portfolio: [https://debasisbiswas.me](https://debasisbiswas.me)
 - 📫 Let's connect:
   - [LinkedIn](https://linkedin.com/in/debasis-biswas)
