@@ -12,7 +12,7 @@ _"Securing the web, one line of code at a time."_
 - 💻 Passionate about **web development** and **cybersecurity**
 - 🧠 Deep knowledge in **penetration testing** and **web app security**
 - 🌱 Currently learning **React**, **Firebase**, and **cloud security**
-- 🌐 My Portfolio: [https;//debasisbiswas.me](https://debasisbiswas.me)
+- 🌐 My Portfolio: [https://debasisbiswas.me](https://debasisbiswas.me)
 - 📫 Let's connect:
   - [LinkedIn](https://linkedin.com/in/debasis-biswas)
   - [Instagram](https://instagram.com/___d_e_b_a___)
