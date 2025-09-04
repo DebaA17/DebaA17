@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debasis Biswas</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm Debasis Biswas</h1>
 <h3 align="center">💻 Web Developer | 🔐 Penetration Tester | 🎓 BCA Student (2nd Year)</h3>
 
 <p align="center"><em>"Securing the web, one line of code at a time."</em></p>
@@ -14,87 +14,139 @@
 - 🎓 **BCA Student (2nd Year)**
 - 💻 Passionate about **Web Development** and **Cybersecurity**
 - 🛡️ Skilled in **Web App Security** & **Penetration Testing**
-- 📚 Constantly exploring **Cloud**, **DevSecOps**, and **New Tech**
+- 📚 Exploring **Cloud**, **DevSecOps**, and **Automation**
 - 🌐 Portfolio: [debasisbiswas.me](https://debasisbiswas.me)
 
-📫 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/debasis-biswas)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://instagram.com/___d_e_b_a___)
+📫 Let's connect:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/debasis-biswas)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/___d_e_b_a___)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://debasisbiswas.me)
 
 ---
 
 ## 🚀 Tech Stack & Tools
 
 ### 💻 Languages & Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ### ⚙️ Backend, Databases & Cloud
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Cloud](https://img.shields.io/badge/-Cloud_Services-00C7B7?style=flat&logo=cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
+### 🔧 DevOps & Security Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-00BFFF?style=flat&logo=caddy&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
 ---
 
 ## 🧪 Penetration Testing Skills
 
 - ✅ Web App Security Testing (OWASP Top 10)
-- ✅ Attack Vectors: XSS, CSRF, SQLi, IDOR, SSRF
-- ✅ Tools: Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit, Sqlmap, etc.
-- ✅ Experience in CTFs & Bug Bounty Programs
-- ✅ Custom Payload Crafting | Proxy Tools Automation
+- ✅ Attack Vectors: XSS, CSRF, SQLi, IDOR, SSRF, etc.
+- ✅ Tools: Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit, Sqlmap
+- ✅ CTF & Bug Bounty Experience
+- ✅ Payload Crafting, Proxy Interception, Recon Automation
 
 ---
 
 <details>
-<summary><b>📂 Projects in Progress (Click to Expand)</b></summary>
+<summary><b>📂 Projects in Progress</b> (Click to expand)</summary>
 
 ### 🔒 Web Application Firewall (WAF)
-Building a lightweight WAF to block SQLi, XSS, CSRF in real-time for websites.
+A lightweight WAF to block common web attacks in real-time.
 
-### 🛠️ Bug Bounty Platform Tracker
-Dashboard to monitor HackerOne/Bugcrowd reports, bounties, and vulnerabilities.
+### 🛠️ Bug Bounty Tracker
+Track and monitor reports from HackerOne, Bugcrowd, etc.
 
-### 📚 Pen Testing Toolkit (Web UI)
-Frontend for tools like Nmap, Burp Suite – making cybersecurity more accessible.
+### 🧰 Pen Testing Toolkit (Web UI)
+Frontend interface for recon and testing tools.
 
-### 💻 Secure Authentication System
-Using **React + Firebase + JWT + MFA** for bulletproof login security.
+### 💻 Secure Auth System
+React + Firebase + JWT + MFA for secure login workflows.
 
 </details>
 
 ---
 
-## ✨ Animations
+## ✨ Visuals & Animations
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs1b3VtZ2V4YWZ4NWliMzl4c2tlOHoxd28zeTZibHpiY3luMDlyMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SmaYvew52UlC9MmB6l/giphy.gif" width="300" alt="Hacker GIF"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Terminal GIF"/>
+  <img src="https://media.giphy.com/media/SmaYvew52UlC9MmB6l/giphy.gif" width="250" alt="Hacker GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="Terminal GIF"/>
 </div>
 
 ---
 
 ## ✍️ Quote I Live By
 
-> “The best way to predict the future is to invent it.” – *Alan Kay*
+> “The best way to predict the future is to invent it.” — *Alan Kay*
+
+---
+
+---
+
+## ❤️ What I Love Working On
+
+<div align="center">
+
+| 💡 Area | ⚒️ Tools & Tech |
+|--------|----------------|
+| Web Dev | React, Node.js, Firebase, Tailwind |
+| Pentesting | Burp Suite, Nmap, Sqlmap, Custom Scripts |
+| Automation | Bash, Python, Ansible, CI/CD |
+| Cloud & Servers | Google Cloud, Azure, Caddy, Nginx |
+| DevSecOps | GitHub Actions, Docker, Caddy, Firewall Rules |
+
+</div>
+
+---
+
+## 🧰 Featured Projects
+
+| 🔒 **WAF Project** | Lightweight firewall for real-time web protection |
+|-------------------|--------------------------------------------------|
+| 🛠️ **Bug Bounty Tracker** | Dashboard to track H1/Bugcrowd reports |
+| 💻 **Secure Auth System** | React + Firebase + MFA login setup |
+| 🧪 **Web Pentesting Toolkit (UI)** | Frontend tool for recon & automation |
+
+> Want to collaborate or contribute? Let’s build something awesome together!
+
+---
+
+## 🖥️ Dev Workstation Setup
+ 
+🖥️ **OS:** Kali Linux 
+
+⚙️ **Terminal:** Zsh + Oh-My-Zsh  
+
+### 🖥️ Editor(s)
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white) &nbsp; ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+
+☕ **Fuel:** Black coffee & midnight motivation
+
+---
+
+## ✍️ Quote I Live By
+
+> “The best way to predict the future is to invent it.” — *Alan Kay*
 
 ---
 
