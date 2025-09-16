@@ -132,7 +132,7 @@ React + Firebase + JWT + MFA for secure login workflows.
 
 ## 🖥️ Dev Workstation Setup
 
-🖥️ **OS:** Kali Linux 
+🖥️ **OS:** Parrot Security 
 
 ⚙️ **Terminal:** Zsh + Oh-My-Zsh  
 
@@ -157,6 +157,11 @@ React + Firebase + JWT + MFA for secure login workflows.
 ---
 
 
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebaA17&layout=compact&theme=radical" alt="Most used languages" />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
