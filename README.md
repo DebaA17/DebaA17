@@ -118,15 +118,6 @@ React + Firebase + JWT + MFA for secure login workflows.
 
 ---
 
-## 🧰 Featured Projects(upcoming)
-
-| 🔒 **WAF Project** | Lightweight firewall for real-time web protection |
-|-------------------|--------------------------------------------------|
-| 🛠️ **Bug Bounty Tracker** | Dashboard to track H1/Bugcrowd reports |
-| 💻 **Secure Auth System** | React + Firebase + MFA login setup |
-| 🧪 **Web Pentesting Toolkit (UI)** | Frontend tool for recon & automation |
-
-> Want to collaborate or contribute? Let’s build something awesome together!
 
 ---
 
@@ -155,7 +146,7 @@ React + Firebase + JWT + MFA for secure login workflows.
 📸 [Instagram](https://instagram.com/___d_e_b_a___)
 
 ---
-
+<a href="https://www.buymeacoffee.com/debasisbiswas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## 📊 Most Used Languages
 
@@ -170,4 +161,6 @@ React + Firebase + JWT + MFA for secure login workflows.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
 
