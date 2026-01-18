@@ -34,6 +34,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
 
 ### ⚙️ Backend, Databases & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -52,6 +54,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-00BFFF?style=flat&logo=caddy&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -65,40 +68,11 @@
 
 ---
 
-<details>
-<summary><b>📂 Projects in Progress</b> (Click to expand)</summary>
-
-### 🔒 Web Application Firewall (WAF)
-A lightweight WAF to block common web attacks in real-time.
-
-### 🛠️ Bug Bounty Tracker
-Track and monitor reports from HackerOne, Bugcrowd, etc.
-
-### 🧰 Pen Testing Toolkit (Web UI)
-Frontend interface for recon and testing tools.
-
-### 💻 Secure Auth System
-React + Firebase + JWT + MFA for secure login workflows.
-
-</details>
-
----
-
-## ✨ Visuals & Animations
-
 <div align="center">
   <img src="https://media.giphy.com/media/SmaYvew52UlC9MmB6l/giphy.gif" width="250" alt="Hacker GIF"/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="Terminal GIF"/>
 </div>
-
----
-
-## ✍️ Quote I Live By
-
-> “The best way to predict the future is to invent it.” — *Alan Kay*
-
----
 
 ---
 
@@ -119,8 +93,6 @@ React + Firebase + JWT + MFA for secure login workflows.
 ---
 
 
----
-
 ## 🖥️ Dev Workstation Setup
 
 🖥️ **OS:** Parrot Security 
@@ -133,11 +105,6 @@ React + Firebase + JWT + MFA for secure login workflows.
 
 ---
 
-## ✍️ Quote I Live By
-
-> “The best way to predict the future is to invent it.” — *Alan Kay*
-
----
 
 ## 🤝 Let's Connect
 
@@ -148,11 +115,8 @@ React + Firebase + JWT + MFA for secure login workflows.
 ---
 <a href="https://www.buymeacoffee.com/debasisbiswas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-## 📊 Most Used Languages
+![Visitor Count](https://komarev.com/ghpvc/?username=DebaA17&label=Visitors&color=blue&style=flat)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebaA17&layout=compact&theme=radical" alt="Most used languages" />
-</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
