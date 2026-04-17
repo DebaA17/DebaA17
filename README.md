@@ -45,6 +45,7 @@
 ![Caddy](https://img.shields.io/badge/Caddy-00BFFF?style=flat&logo=caddy&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-8A0000?style=flat&logo=freebsd&logoColor=white)
 
 ### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -100,6 +101,17 @@
        alt="Buy Me A Coffee" 
        style="height: 60px !important;width: 217px !important;" >
 </a>
+
+## 🔐 PGP Key
+
+Secure communication is welcome. You can find my public PGP key here:
+
+[![PGP Key](https://img.shields.io/badge/PGP-Key-blue?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://keys.openpgp.org/vks/v1/by-fingerprint/B521D1095C63E077EAE854E96805708F78A19272)
+
+**Fingerprint:**  
+`B521 D109 5C63 E077 EAE8 54E9 6805 708F 78A1 9272`
+
+<hr>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DebaA17&label=Visitors&color=blue&style=flat)
 
