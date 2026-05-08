@@ -16,7 +16,7 @@
 - 🔐 Skilled in **Web Application Security & Penetration Testing**
 - ⚙️ Strong interest in **DevOps, Automation, and System Design**
 - ☁️ Exploring **Cloud Infrastructure & CI/CD Pipelines**
-- 🌐 Portfolio: [debasisbiswas.me](https://debasisbiswas.me)
+- 🌐 Portfolio: [debasisbiswas.in](https://debasisbiswas.in)
 
 📫 Let's connect:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/debasis-biswas)
